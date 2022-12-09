@@ -10,6 +10,13 @@ namespace API.Controllers
     [Route("api/[controller]")]
     public class UsersController : ControllerBase
     {
+        /*
+        POST /api/users/
+        POST /api/users/{id}/image
+        GET /api/users/{id}
+        GET /api/users/{id}/images
+        DELETE /api/users/{id}
+        */
         
     }
 }
