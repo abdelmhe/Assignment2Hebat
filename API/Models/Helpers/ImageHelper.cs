@@ -10,8 +10,8 @@ namespace API.Models.Helpers
     {
         public static IEnumerable<string> GetTags(string imageUrl)
         {
-            string apiKey = "copy your api key here";
-            string apiSecret = "copy your api secret here";
+            string apiKey = "acc_66b9dd03e6f566a";
+            string apiSecret = "cc40cdb0626568f33b76f2c0f24b6aff";
 
             string basicAuthValue = System.Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(String.Format("{0}:{1}", apiKey, apiSecret)));
 
