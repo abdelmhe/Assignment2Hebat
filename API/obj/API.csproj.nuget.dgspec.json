@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hebahisham/Desktop/EnterpriseAssign/Webly_Backend/API/API.csproj": {}
+    "/Users/hebahisham/Desktop/Important stuff/EnterpriseAssign/Webly_Backend/API/API.csproj": {}
   },
   "projects": {
-    "/Users/hebahisham/Desktop/EnterpriseAssign/Webly_Backend/API/API.csproj": {
+    "/Users/hebahisham/Desktop/Important stuff/EnterpriseAssign/Webly_Backend/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hebahisham/Desktop/EnterpriseAssign/Webly_Backend/API/API.csproj",
+        "projectUniqueName": "/Users/hebahisham/Desktop/Important stuff/EnterpriseAssign/Webly_Backend/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/hebahisham/Desktop/EnterpriseAssign/Webly_Backend/API/API.csproj",
+        "projectPath": "/Users/hebahisham/Desktop/Important stuff/EnterpriseAssign/Webly_Backend/API/API.csproj",
         "packagesPath": "/Users/hebahisham/.nuget/packages/",
-        "outputPath": "/Users/hebahisham/Desktop/EnterpriseAssign/Webly_Backend/API/obj/",
+        "outputPath": "/Users/hebahisham/Desktop/Important stuff/EnterpriseAssign/Webly_Backend/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hebahisham/.nuget/NuGet/NuGet.Config"
